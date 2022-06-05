@@ -102,7 +102,8 @@ const Navbar = () => {
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#717171]'>
             <a className='flex justify-between items-center w-full text-gray-300'
-            href="./assets/pdf/CVRiyadh.pdf" download="cv.pdf">
+            href="https://mhdriyadh367.github.io/Portfolio/src/assets/pdf/CVRiyadh.pdf" target="_blank" download="cv.pdf">
+              
               Resume <RiProfileFill size={30}/>
             </a>
           </li>
